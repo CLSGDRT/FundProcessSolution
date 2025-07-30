@@ -2,14 +2,6 @@
 
 Solution .NET multi-projets pour simuler un traitement de performance.
 
-## Structure du projet
-
-FundProcessSolution/
-├── FundProcess.Lib         # Bibliothèque métier réutilisable (PerformanceService)
-├── FundProcess.ConsoleDemo # Application console de démonstration de la lib
-├── FundProcess.Tests       # Tests unitaires pour la bibliothèque
-└── FundProcessDev.sln      # Fichier de solution .NET
-
 ## Lancer le projet de démo
 
 cd FundProcess.ConsoleDemo
