@@ -19,7 +19,7 @@ namespace FundProcess.Tests
             };
 
             double result = _service.GetPerformance(dataset, new DateTime(2020, 1, 1), new DateTime(2020, 12, 31));
-            Assert.Equal(0.5, result); // (150 / 100) - 1 = 0.5
+            Assert.Equal(0.5, result);
         }
 
         [Fact]

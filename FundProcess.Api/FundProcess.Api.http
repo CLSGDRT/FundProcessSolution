@@ -1,0 +1,6 @@
+@FundProcess.Api_HostAddress = http://localhost:5056
+
+GET {{FundProcess.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
