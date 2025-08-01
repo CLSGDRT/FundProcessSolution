@@ -30,6 +30,7 @@ Cette solution a pour but de séparer clairement :
 - la logique métier (FundProcess.Lib)
 - l'exécution (FundProcess.ConsoleDemo)
 - les tests (FundProcess.Tests)
+- l'exposition d'une API (FundProcess.Api)
 
 ---
 
